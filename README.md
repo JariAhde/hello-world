@@ -1,2 +1,3 @@
 # hello-world
-Thi is a hello-world demonstration repository
+This is a hello-world demonstration repository
+Here are some changes in this readme-edits branch.
